@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "e135854d860d0824",
+    "type": "split",
+    "children": [
+      {
+        "id": "b30a18f105e64969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c37b4187f64c3fed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "140b9fa0a74aa8e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основное/Подуровни СОТС/Верхний уровень СОТС.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Верхний уровень СОТС"
+            }
+          },
+          {
+            "id": "a4829cbf43aa7672",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "ba77212a64449622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Основное/Подуровни СОТС/Нижний уровень СОТС.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Нижний уровень СОТС"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b22f62d23706c21d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f7090d4d7453f927",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "a80814d3a348c728",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "97b899fbfb154993",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "a773f0300bd96cce",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "92a7fb7fb21780dd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2fd0a47ac165c4a3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Основное/Подуровни СОТС/Средний уровень СОТС.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "646b816e2ed5d38e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "33605405b48514df",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ba77212a64449622",
+  "lastOpenFiles": [
+    "Основное/Подуровни СОТС/Средний уровень СОТС.md",
+    "Основное/Подуровни СОТС/Нижний уровень СОТС.md",
+    "Основное/Подуровни СОТС/Верхний уровень СОТС.md",
+    "ЛВС для СБ.md",
+    "Основное/Подуровень СКУД (тех. помещения)/Верхний уровень СКУД.md",
+    "Основное/Подуровень СКУД (тех. помещения)/Средний уровень СКУД.md",
+    "Основное/Подуровень СКУД (тех. помещения)/Задача №3_СКУД. Выполнени подбор кабельной продукции для среднего уровня СКУД.md",
+    "Проект СС",
+    "Основное/Подуровни СОТС/Важно, СОТС_Нумерация датчиков.md",
+    "Основное/Подуровень СКУД (тех. помещения)/Нижний уровень СКУД.md",
+    "Основное/Подуровень СКУД (тех. помещения)/Задача №2_СКУД. Подбери АРМ СКУД_СОТС_СОТ.md",
+    "Основное/Подуровень СКУД (тех. помещения)/Задача №1_СКУД. Точки доступа на фасаде.md",
+    "Основное/Подуровни СОТС/Задача №1. Cобрать цепи СОТС.md",
+    "Основное/Подуровни СОТС/Оборудование в помещениях. СОТС/пом. Кроссовые.md",
+    "Основное/Подуровни СОТС/1. Схемы СОТС.md",
+    "Основное/Подуровень СКУД (тех. помещения)/2. Схемы СКУД. Технические помещения.md"
+  ]
+}
